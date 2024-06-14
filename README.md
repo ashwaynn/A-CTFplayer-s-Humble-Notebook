@@ -1,4 +1,4 @@
-# A CTFplayer's Humble Notebook
+# A-CTFplayer-s-Humble-Notebook
 
 A living notebook containing the details of frequent as well as unique attack techniques, cmds for various security tools etc., gathered from my experiences of playing CTFs, solving HTB & THM Challenges and also based on my learnings from other interesting CTF writeups/security resources.
 
